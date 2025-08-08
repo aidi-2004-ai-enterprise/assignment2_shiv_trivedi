@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "penguin-api-shiv",
+  "private_key_id": "7396ae2504a432ba709cdc1ebbf2d7692a7e6001",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCufRa3d9LCh/go\nLi3osH6M2/c288UAEU/k1R4ZpgFTwnWXy/dkWwB76fb8zhblPhpzBFCN1FqRDW5g\n4Ykqg7C28psOTRLfFHBkQeTGyAxd6wdUwFo6NzNr51SmqawjBd4e1NbqNcleXNdY\nVzDmbRfnbyexbY8xjsLtM39A/9aJTt5A5oTvAr0DGm2OETWpOTyBFIHojXqG5Xk8\nBvRP7ioAMmOR9l/kqGY4V9krvFDztPhIbCxDOU1tNHFQZ0SDJOpjI/yM/DWvYGDe\n2QRTLD0CGhWQqInZ9P8cYXaACbnwfK0owwNCRB2sH3u2KvixhYYBRe33fBorsXhi\ng7K/1U+PAgMBAAECggEAKyjYvh/e22xLdxDZHTXOz6O3FfodD+O4WddXPyvfJysx\n8A6tDj8uMvhPtf96DVEbtLhr/nD4x+lFFKSky4XQZ6hBrztkQBarqDjeUEb6PB7e\n7Nk5WC4AQ5/wQds1L2KLqx+lW0Bbo0IeqATFHTH92CqX7Fy3rx/rWkXDI75EgCi/\nJRADELEWsGvesf/0HmPTfzUoJIRRez8ZXw3HzTzM/N96QOkwXSbNv4PWcE/azCCB\n3k+qeRSBiAcwkfodLeIwmGSVABhWrKfVlgZfI02OZK5YcVfggi5AmzjTzsL6LIcx\nNtmNiXwflgOrBiMmSX+AORhYaHKwsl2UXrVGiqpD/QKBgQDuQWKbiLc7hLT+XDKP\nJNQ/9Uvc78gTh/yYtv5G3NHdq6Mnbh0NREeg4vrXE/+XZNF+i9CPFd6ibBX4w18v\n55wNfCWrrGpYDQVAqyRTtWJUJkPwYD1BlbiRBJEcYp3ALm90MTTeX9gktTeElUNt\nYtKxk8x+zZXfIBsR3acTepYmvQKBgQC7e+qHEuzhcnrk535tL5lU5y3LyUzePete\nzsf+rT15XfTZGc5Tt/oTVYsnYDYF9BCJ6zPKlXb9Vi4uwExS/Kapxg5QrVGSQgn7\nQh3tQXrj21PPXP7Y5hgsqIbs8Rqxqpgqqp6Bsd+4d4GTZ1XIdePsord/Zr7JiacM\ntj/te4MKOwKBgQCFhMD09rXwtdsUXKi8zV/hA99izkFqqJ+nGY4AOkmmF0TUmQHQ\n6H3XrLv0AjIPLqG0cDgNp6zfiwD5KsvSNdKfP/6AaZwjAhD6f65Y9uJG1Dboo5ZQ\nhc4r/sovhRhwldVB4T2GjWG8mI2nUFq8F1CJ0ZEdUqr1orFo3rV91goFZQKBgQC0\nJ6O6Pe5PyNDcqrHqu2Vsl2SDQSDTIc7NYIf/anr659UC1PBVtCDieT3pDWN8HwXR\ncahnz23yi+B+3hu5VrvTwdQ5pAIRN9IdlW/qbxRmZXhId0UQKTIrn5lfj2MmPBZS\nUXdUixa+TF+/w/lDUj09QzJugs1sHhDefzY4vomxxwKBgQCsIsiZOe1su4128wjt\n1yQd8zBE2kDTCyeZGiAXkWMykVjlsOocw1RNxUHQC1AHz85zWLJRr3J4GbVFK/XZ\nf9zRvtAKQgQqEXlPIPQT6t4aAwHgWYRJ78e2cd0hmBc8ikFsSTUxt3w3AMKdQmbM\nnF73C1DCOWa1QVJXxIFlrRrRRw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "penguin-api-sa@penguin-api-shiv.iam.gserviceaccount.com",
+  "client_id": "100177119823719538147",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/penguin-api-sa%40penguin-api-shiv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
