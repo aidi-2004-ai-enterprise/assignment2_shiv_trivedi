@@ -4,7 +4,7 @@
 
 **Author:** Shivkumar Trivedi
 **Course:** AIDI-2004 AI in Enterprise Systems
-**Assignment:** 2 – ML Application Deployment
+**Assignment:** `2 – ML Application Deployment`
 ---
 
 ## Overview
