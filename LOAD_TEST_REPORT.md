@@ -17,6 +17,7 @@
   "sex": "male",
   "island": "Biscoe"
 }
+```
 ---
 
 ## Scenarios and Results
