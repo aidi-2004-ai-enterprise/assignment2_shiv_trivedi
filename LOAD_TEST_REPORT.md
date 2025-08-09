@@ -6,7 +6,7 @@
 - Cloud Run endpoint:  
   `https://penguin-api-service-217484219601.us-central1.run.app/predict`  
 - Locust script: `locustfile.py`
-- **Payload used**
+**Payload used**
 ```json
 {
   "bill_length_mm": 39.1,
