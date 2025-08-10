@@ -7,7 +7,10 @@
 **Assignment:** 2 – ML Application Deployment
 
 ---
-
+## Final URL used
+```
+https://penguin-api-service-217484219601.us-central1.run.app/docs
+```
 ## Overview
 
 This repository implements a complete ML deployment workflow with production-ready practices:
