@@ -168,7 +168,7 @@ gcloud run services describe penguin-api-service \
 
 **Final URL used:**
 ```
-https://penguin-api-service-217484219601.us-central1.run.app
+https://penguin-api-service-217484219601.us-central1.run.app/docs
 ```
 
 ---
